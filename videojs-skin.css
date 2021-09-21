@@ -1,0 +1,18 @@
+.video-js  {
+  margin:1em;
+  width:540px;
+  height:320px;
+}
+
+.video-js .vjs-big-play-button {
+  border-radius:50%;
+  width:2em;
+  height:2em;
+  line-height:2em;
+  font-size:300%;
+  padding:0;
+  left:50%;
+  top:50%;
+  border:none;
+  transform:translate(-50%,-50%);
+}

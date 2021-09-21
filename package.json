@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/video.js": "^7.3.2",
+    "aes-decrypter": "^3.0.1",
+    "m3u8-parser": "^4.4.2",
+    "mpd-parser": "^0.9.0",
+    "mux.js": "^5.5.1",
+    "url-toolkit": "^2.1.6",
+    "video.js": "7.6.5",
+    "videojs-seek-buttons": "^1.5.0"
+  }
+}
